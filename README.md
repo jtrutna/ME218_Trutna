@@ -2,6 +2,7 @@
 
 A library of KiCAD symbols for parts commonly used in ME218.
 <img width="605" height="540" alt="image" src="https://github.com/user-attachments/assets/7bde1a34-df1f-4f38-843b-a68ac45b1354" />
+<img width="60%" height="60%" alt="image" src="https://github.com/user-attachments/assets/9142f6a1-180f-46cc-ac3d-e2bbca70fb7e" />
 
 
 ---
